@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">Login</string>
-    <string name="welcome">Welcome Screen</string>
+    <string name="welcome">Splash Screen</string>
 </resources>
